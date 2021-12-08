@@ -1,13 +1,13 @@
 ---
-title: Hello World
+titledocs/content/get-started/quickstart/hello-world.md: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+versions:* Start and manage a new branch
+  fpt: '*'In this quickstart guide, you will:
+  ghes: '*'Make changes to a file and push them to 
+  ghae: '*'Start and manage a new branch
+  ghec: '*'Open and merge a pull request
 type: quick_start
-topics:
+topics: quick start
   - Pull requests
   - Fundamentals
 miniTocMaxHeadingLevel: 3
@@ -143,3 +143,4 @@ Here's what you accomplished in this tutorial:
 Take a look at your {% data variables.product.product_name %} profile and you'll see your work reflected on your contribution graph.
 
 For more information about the power of branches and pull requests, see "[GitHub flow](/get-started/quickstart/github-flow)." For more information about getting started with {% data variables.product.product_name %}, see the other guides in the [getting started quickstart](/get-started/quickstart).
+In this quickstart guide, you will: what 
